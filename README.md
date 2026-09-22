@@ -1,12 +1,13 @@
-# 💫 About Me:
-I am a Computer Engineering student with a strong interest in Cyber Security and Software Testing. I have experience in developing projects using Python, Flask, HTML, CSS, JavaScript, and MySQL. I am a quick learner with good problem-solving skills and a passion for developing secure and reliable software solutions.
-
- About Me
+# 💫 about Me 
 
 I am a Computer Engineering student passionate about Cybersecurity Engineer with a strong foundation in protecting systems, networks, and data from evolving cyber threats. Skilled in ethical hacking, network security, vulnerability assessment, and risk management, I am dedicated to implementing robust security measures and proactive solutions to safeguard digital assets. With hands-on experience in penetration testing, threat analysis, and access control systems, I thrive in fast-paced environments that challenge me to stay ahead of emerging threats. My goal is to contribute to building secure infrastructures and fostering a culture of cybersecurity awareness. I continuously strive to expand my knowledge in cloud security, cryptography, and secure software development, ensuring that organizations I work with remain resilient against cyber attacks.
-Skills
+
+
+# Skills :
 C / C++ Python HTML/ JS MySQL Linux / Networking Ethical Hacking kali linux
-Projects
+
+
+# Projects :
 Secure Cloud File Sharing
 
 Developed a role-based secure file sharing app with AES encryption and access control.
@@ -22,17 +23,7 @@ NTP is an Internet time protocol that includes the discipline algorithms necessa
 computer network security
 
 Network security refers to the practices and measures designed to protect the integrity, confidentiality, and availability of computer networks and the data they carry.
-Contact
 
-Name: Kalyani Katore
-
-Email: kalyanikatore2005@gmail.com
-
-Phone: +91 9322779098
-
-GitHub: github.com/kalyanikatore
-
-Location: Nashik, India
 
 
 ## 🌐 Socials:
