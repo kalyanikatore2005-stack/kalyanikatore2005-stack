@@ -1,6 +1,39 @@
 # 💫 About Me:
 I am a Computer Engineering student with a strong interest in Cyber Security and Software Testing. I have experience in developing projects using Python, Flask, HTML, CSS, JavaScript, and MySQL. I am a quick learner with good problem-solving skills and a passion for developing secure and reliable software solutions.
 
+ About Me
+
+I am a Computer Engineering student passionate about Cybersecurity Engineer with a strong foundation in protecting systems, networks, and data from evolving cyber threats. Skilled in ethical hacking, network security, vulnerability assessment, and risk management, I am dedicated to implementing robust security measures and proactive solutions to safeguard digital assets. With hands-on experience in penetration testing, threat analysis, and access control systems, I thrive in fast-paced environments that challenge me to stay ahead of emerging threats. My goal is to contribute to building secure infrastructures and fostering a culture of cybersecurity awareness. I continuously strive to expand my knowledge in cloud security, cryptography, and secure software development, ensuring that organizations I work with remain resilient against cyber attacks.
+Skills
+C / C++ Python HTML/ JS MySQL Linux / Networking Ethical Hacking kali linux
+Projects
+Secure Cloud File Sharing
+
+Developed a role-based secure file sharing app with AES encryption and access control.
+Cyber Threat Intelligence from Social Networks
+
+To collect and analyze cybercrime related data from social networks.
+secure devices application
+
+applications can be developed with built-in security measures making it difficult target for security breaches and exploitation.
+DSEP server and NTP server
+
+NTP is an Internet time protocol that includes the discipline algorithms necessary for synchronizing clocks (Microsoft Docs). Click on the start icon in your Server and search for “ Run ” application.
+computer network security
+
+Network security refers to the practices and measures designed to protect the integrity, confidentiality, and availability of computer networks and the data they carry.
+Contact
+
+Name: Kalyani Katore
+
+Email: kalyanikatore2005@gmail.com
+
+Phone: +91 9322779098
+
+GitHub: github.com/kalyanikatore
+
+Location: Nashik, India
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.k.katore ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kalyani-katore-56453a289) 
